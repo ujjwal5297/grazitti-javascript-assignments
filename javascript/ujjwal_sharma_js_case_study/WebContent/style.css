@@ -1,0 +1,12 @@
+button{
+    color: white;
+    background-color: blueviolet;
+    width: 248px;
+    height: 30px;
+    border: none;
+    margin-top: -4px;
+}
+
+.container{
+    margin-left: 20px;
+}

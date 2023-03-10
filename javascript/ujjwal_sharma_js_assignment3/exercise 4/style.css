@@ -1,0 +1,15 @@
+ul{
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+    margin-bottom: 20px;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: rgb(178, 211, 30);
+    font-weight: 900;
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+}
